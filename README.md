@@ -1,16 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+This project was generated with React js
 
-In the project directory, you can run:
+link: https://github.com/Hamza2231/React_TASK
 
-### `npm start`
+-------------------------------------------------------
+Simple SignIn and SignUp form with validate inputs.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+//How to run the Project?
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Download the project and get into the project folder using any editor. I have used Visual Code.
+
+Press Ctrl + J to open the CLI in Visual code. Get into the project folder.
+
+Run `npm start` for a dev server. (It will run on (https://localhost:3000))
+
+Check routes in Index.js file.
+
 
 ### `npm test`
 
